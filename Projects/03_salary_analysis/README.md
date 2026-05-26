@@ -1,51 +1,71 @@
 # 💰 Salary Data Analysis
 
-## 📌 Objective
+## 📌 Overview
 
-To analyze the relationship between years of experience and salary.
+This project analyzes salary trends based on years of experience.
 
----
-
-## 📂 Dataset
-
-* Salary dataset containing experience and salary values
-
----
-
-## 🔧 Steps Performed
-
-1. Data Cleaning
-
-   * Verified data consistency
-
-2. Data Analysis
-
-   * Studied relationship between variables
-
-3. Visualization
-
-   * Line plots
-   * Scatter plots
+The goal of the analysis is to identify:
+- salary growth patterns
+- relationship between experience and compensation
+- salary distribution
+- statistical insights
 
 ---
 
-## 📊 Key Insights
+# 📂 Dataset
 
-* Salary increases with experience
-* Strong positive relationship between experience and income
-
----
-
-## 🛠 Tools Used
-
-* Pandas
-* Matplotlib
+The dataset contains:
+- years of experience
+- salary information
 
 ---
 
-## ✅ Conclusion
+# 🛠️ Technologies Used
 
-This project demonstrates how data analysis can reveal trends and relationships in numerical data.
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
 ---
 
+# 📊 Analysis Performed
+
+- Data exploration
+- Salary distribution analysis
+- Experience vs salary analysis
+- Correlation analysis
+- Salary growth trends
+- Statistical summaries
+
+---
+
+# 📈 Key Insights
+
+- Salary strongly increases with experience.
+- Experience and salary have high positive correlation.
+- Senior professionals earn significantly higher salaries.
+- Salary growth becomes steeper after mid-level experience.
+
+---
+
+# 📷 Visualizations
+
+Project includes:
+- histograms
+- scatter plots
+- line charts
+- heatmaps
+- bar charts
+
+---
+
+# 🚀 Skills Demonstrated
+
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Correlation Analysis
+- Data Visualization
+- Business Insights

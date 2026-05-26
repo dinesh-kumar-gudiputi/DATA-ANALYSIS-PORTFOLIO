@@ -1,59 +1,77 @@
 # 🛒 Supermarket Sales Analysis
 
-## 📌 Objective
+## 📌 Overview
 
-To analyze supermarket sales data and identify trends, patterns, and key business insights.
+This project analyzes supermarket sales data to uncover:
+- revenue trends
+- customer behavior
+- product performance
+- payment preferences
+- branch performance
 
----
-
-## 📂 Dataset
-
-* Source: Supermarket dataset
-* Contains information about sales, products, and transactions
-
----
-
-## 🔧 Steps Performed
-
-1. Data Cleaning
-
-   * Handled missing values
-   * Checked data types
-   * Removed inconsistencies
-
-2. Data Analysis
-
-   * Total sales calculation
-   * Category-wise performance
-   * Time-based trends
-
-3. Data Visualization
-
-   * Bar charts
-   * Line plots
-   * Pie charts
+The analysis was performed using Python, Pandas, Matplotlib, and Seaborn.
 
 ---
 
-## 📊 Key Insights
+# 📂 Dataset
 
-* Certain product categories generate higher revenue
-* Sales show patterns based on time/period
-* Some segments contribute more to overall profit
-
----
-
-## 🛠 Tools Used
-
-* Pandas
-* NumPy
-* Matplotlib
+Dataset contains:
+- sales transactions
+- customer information
+- product categories
+- payment methods
+- gross income
+- ratings
 
 ---
 
-## ✅ Conclusion
+# 🛠️ Technologies Used
 
-This project demonstrates how data analysis can help businesses understand performance and make informed decisions.
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
 ---
 
+# 📊 Analysis Performed
+
+- Sales by branch
+- Monthly revenue trends
+- Product line analysis
+- Customer segmentation
+- Payment analysis
+- Gross income analysis
+- Correlation analysis
+
+---
+
+# 📈 Key Insights
+
+- Branch C had highest total revenue.
+- E-wallet was most preferred payment method.
+- Top product lines contributed majority of revenue.
+- Member customers generated more sales.
+
+---
+
+# 📷 Visualizations
+
+Project includes:
+- bar charts
+- line charts
+- pie charts
+- histograms
+- heatmaps
+
+---
+
+# 🚀 Skills Demonstrated
+
+- Exploratory Data Analysis (EDA)
+- Data Cleaning
+- Data Visualization
+- Business Analysis
+- Statistical Insights
